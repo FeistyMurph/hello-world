@@ -1,3 +1,3 @@
 # hello-world
 
-Just practicing he basics for using GitHub
+Just practicing the basics for using GitHub
